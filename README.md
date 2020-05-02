@@ -7,7 +7,7 @@
 
 Following picture captures the summary of the linear model (lm) for the mpg values in the MechaCar dataset.
 
-![alt text] (https://github.com/nabanitagupta/R_analysis/blob/master/MPG_Regression_MLR.png) 
+! [alt text] (https://github.com/nabanitagupta/R_analysis/blob/master/MPG_Regression_MLR.png) 
 
 As per the lm, 2 variables – (a) vehicle length and (b) ground clearance provide non-random variance to the mpg values in the MechaCar dataset. One can consider vehicle weight as non-random indicator of mpg values. However, it has very little significance. 
 The slope is non-zero because the p-value: 5.35e-11; very small.
@@ -24,7 +24,7 @@ This lm does a good job of predicting mpg of MechaCar prototypes as indicated by
 # The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per inch. Does the current manufacturing data meet this design specification? Why or why not?
 
 Following is the summary statistics for the suspension coil summary
-![alt text] (https://github.com/nabanitagupta/R_analysis/blob/master/Summary_SuspensionCoil.png)
+! [alt text] (https://github.com/nabanitagupta/R_analysis/blob/master/Summary_SuspensionCoil.png)
 
 As indicated in the summary table, lot1and lot 2 meet the design specification, whereas the lot 3 has much higher variance: 170.286. The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per inch. Hence, lot 3 doesn’t meet the design specification. 
 
