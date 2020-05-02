@@ -7,7 +7,7 @@
 
 Following picture captures the summary of the linear model (lm) for the mpg values in the MechaCar dataset.
 
-![alt text](https://github.com/nabanitagupta/R_analysis/blob/master/MPG_Regression_MLR.png) 
+![alt text] (https://github.com/nabanitagupta/R_analysis/blob/master/MPG_Regression_MLR.png) 
 
 As per the lm, 2 variables – (a) vehicle length and (b) ground clearance provide non-random variance to the mpg values in the MechaCar dataset. One can consider vehicle weight as non-random indicator of mpg values. However, it has very little significance. 
 The slope is non-zero because the p-value: 5.35e-11; very small.
