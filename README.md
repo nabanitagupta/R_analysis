@@ -43,3 +43,10 @@ Lot 1 and lot 2 have population mean as the entire population i.e. 1500 psi. Lot
 # •	Think critically about what metrics you would think would be of interest to a consumer (cost, fuel efficiency, color options, etc.).
 # •	Determine what question we would ask, what the null and alternative hypothesis would be to answer that question, and what statistical # test could be used to test this hypothesis.
 # •	Knowing what test should be used, what data should be collected?
+
+Two foremost parameters come to mind regarding cars are horsepower along with mpg. Hence, it will be good to include horsepower data from other competitor cars and multiple datapoints for the MechaCar’s horsepower and run a statistical analysis. The hypothesis to test would be:
+Ho: There is no statistical difference between horsepower of MechaCar and the competitor car. 
+Ha: There is statistical difference between horsepower of MechaCar and the competitor car. 
+We can use one-sample t-test, where the population data will be all datapoints including competitor data and data from MechaCar. 
+Again, we will need to include horsepower data from other competitor cars and multiple datapoints for the MechaCar’s horsepower for the above mentioned analysis. 
+
